@@ -1,2 +1,3 @@
 # Hello-World
-NA
+
+This is my first git hub project 
